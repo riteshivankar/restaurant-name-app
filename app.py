@@ -1,6 +1,6 @@
 import streamlit as st
 import google.generativeai as genai
-from secret_key import openapi_key
+
 
 # Step 1: Configure Gemini API key
 import os
